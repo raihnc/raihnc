@@ -1,7 +1,7 @@
 ![raihnc](img/github-header.png)
 
 
-Merupakan lulusan S1 bidang Rekayasa Perangkat Lunak di Universitas Dipa Makassar yang menyelesaikan studi dalam waktu kurang lebih 3 tahun sambil bekerja sebagai part-time dan meraih predikat Cumlaude dengan IPK 3.64. Berfokus dalam pengembangan aplikasi berbasis mobile. Punya pengalaman dalam merancang dan mengimplementasikan aplikasi berbasis mobile berskala riil. Mahir mengintegrasikan arsitektur cloud dan basis data modern, berorientasi pada kode yang bersih dan performa tinggi.
+Merupakan lulusan S1 bidang Rekayasa Perangkat Lunak di Universitas Dipa Makassar yang menyelesaikan studi dalam waktu kurang lebih 3 tahun sambil bekerja part-time dan meraih predikat Cumlaude dengan IPK 3.64. Berfokus dalam pengembangan aplikasi berbasis mobile. Punya pengalaman dalam merancang dan mengimplementasikan aplikasi berbasis mobile berskala riil. Mahir mengintegrasikan arsitektur cloud dan basis data modern, berorientasi pada kode yang bersih dan performa tinggi.
 
 
 ### Pendidikan:
