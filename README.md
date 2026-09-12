@@ -5,7 +5,7 @@ Merupakan lulusan S1 bidang Rekayasa Perangkat Lunak di Universitas Dipa Makassa
 
 
 ### 🎓 Pendidikan:
-[![Universitas Dipa Makassar](https://img.shields.io/badge/Universitas-Dipa%20Makassar-1E3A8A?style=for-the-badge&logo=google-scholar&logoColor=white)](https://dipanegara.ac.id) [![Rekayasa Perangkat Lunak](https://img.shields.io/badge/Program%20Studi-Rekayasa%20Perangkat%20Lunak-2563EB?style=for-the-badge&logo=flutter&logoColor=white)]() [![Lulusan Baru](https://img.shields.io/badge/Status-Lulusan%20Baru-10B981?style=for-the-badge&logo=verified&logoColor=white)]() [![Cumlaude IPK 3.64](https://img.shields.io/badge/Prestasi-Cumlaude%20IPK%203.64-F59E0B?style=for-the-badge&logo=star&logoColor=white)]()
+<!-- [![Universitas Dipa Makassar](https://img.shields.io/badge/Universitas-Dipa%20Makassar-1E3A8A?style=for-the-badge&logo=google-scholar&logoColor=white)](https://dipanegara.ac.id) [![Rekayasa Perangkat Lunak](https://img.shields.io/badge/Program%20Studi-Rekayasa%20Perangkat%20Lunak-2563EB?style=for-the-badge&logo=flutter&logoColor=white)]() [![Lulusan Baru](https://img.shields.io/badge/Status-Lulusan%20Baru-10B981?style=for-the-badge&logo=verified&logoColor=white)]() [![Cumlaude IPK 3.64](https://img.shields.io/badge/Prestasi-Cumlaude%20IPK%203.64-F59E0B?style=for-the-badge&logo=star&logoColor=white)]() -->
 
 <table>
   <tr>
