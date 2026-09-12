@@ -10,21 +10,18 @@ Merupakan lulusan S1 bidang Rekayasa Perangkat Lunak di Universitas Dipa Makassa
 <table>
   <tr>
     <td align="center" width="50%"><b>🏛️ Universitas Dipa Makassar</b><br/>🎓 Program Studi <b>Rekayasa Perangkat Lunak</b></td>
-    <td align="center" width="50%"><b>🎯 Fokus</b><br/>Pengembangan aplikasi <b>Android</b></td>
+    <td align="center" width="50%"><b>🎯 Fokus</b><br/>Pengembangan aplikasi <b>Mobile</b></td>
   </tr>
   <tr>
     <td align="center" colspan="2">🏅 Predikat <b>Cumlaude</b> · IPK <b>3.64</b></td>
   </tr>
-  <tr>
-    <td align="center" colspan="2"><b>🛠️ Teknologi</b>: <code>Flutter</code> · <code>Dart</code> · <code>UI/UX Design</code> · <code>Database</code></td>
-  </tr>
 </table>
 
 ### 🌐 Socials: 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raihnc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raihanraihan522@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%40raihnc-E4405F?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=white)](https://instagram.com/raihnc) [![Email](https://img.shields.io/badge/Email-raihanraihan522%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=white)](mailto:raihanraihan522@gmail.com) 
 
 ### 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Bahasa-0175C2?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=white) ![Flutter](https://img.shields.io/badge/Flutter-Framework-02569B?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=white) ![React Native](https://img.shields.io/badge/React%20Native-Framework-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=white) ![Expo](https://img.shields.io/badge/Expo-Tooling-1C1E24?style=for-the-badge&logo=expo&logoColor=000000&labelColor=white) ![Firebase](https://img.shields.io/badge/Firebase-BaaS%20%26%20DB-DD2C00?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=white) ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=white) ![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=white) ![Figma](https://img.shields.io/badge/Figma-Desain-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=white) ![Canva](https://img.shields.io/badge/Canva-Desain-00C4CC?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=white)
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=raihnc&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=raihnc&theme=vue&hide_border=false)<br/>
