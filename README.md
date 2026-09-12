@@ -38,6 +38,6 @@ Merupakan lulusan S1 bidang Rekayasa Perangkat Lunak di Universitas Dipa Makassa
 
 
 ### GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=raihnc&theme=dark&title_color=a599e9&icon_color=a599e9&text_color=e0e2e7&bg_color=22272e&border_color=444c56&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=raihnc&theme=dark&title_color=a599e9&icon_color=a599e9&text_color=e0e2e7&bg_color=22272e&border_color=444c56&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=raihnc&theme=dark&title_color=a599e9&icon_color=a599e9&text_color=e0e2e7&bg_color=22272e&border_color=444c56&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
