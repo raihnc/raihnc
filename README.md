@@ -23,7 +23,7 @@ Merupakan lulusan S1 bidang Rekayasa Perangkat Lunak di Universitas Dipa Makassa
 ### Tech Stack :
 ![Dart](https://img.shields.io/badge/Dart-Bahasa-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-Framework-20232A?style=for-the-badge&logo=react&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-Tooling-1C1E24?style=for-the-badge&logo=expo&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-BaaS%20%26%20DB-DD2C00?style=for-the-badge&logo=firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-Desain-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-Desain-00C4CC?style=for-the-badge&logo=canva&logoColor=000000)
 ### GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=raihnc&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=raihnc&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=raihnc&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=raihnc&theme=dark&title_color=a599e9&icon_color=a599e9&text_color=e0e2e7&bg_color=22272e&border_color=444c56&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=raihnc&theme=obsidian&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=raihnc&theme=dark&title_color=a599e9&icon_color=a599e9&text_color=e0e2e7&bg_color=22272e&border_color=444c56&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
