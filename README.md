@@ -20,6 +20,9 @@ Merupakan lulusan S1 Rekayasa Perangkat Lunak dari Universitas Dipa Makassar yan
 ### Socials : 
 [![Instagram](https://img.shields.io/badge/Instagram-%40raihnc-02569B?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raihnc) [![Email](https://img.shields.io/badge/Email-raihanraihan522%40gmail.com-02569B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihanraihan522@gmail.com) 
 
+### Download CV :
+[![Download CV](https://img.shields.io/badge/Download-CV-02569B?style=for-the-badge&logo=google-drive&logoColor=white)]((https://drive.google.com/file/d/1GJxtEes7xk8QLagfEu3cbWZ8DpWVijsF/view?usp=sharing))
+
 ### Tech Stack :
 ![Dart](https://img.shields.io/badge/Dart-Bahasa-02569B?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-SaaS%20%26%20DB-02569B?style=for-the-badge&logo=firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-Database-02569B?style=for-the-badge&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-Deploy-02569B?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-Desain-02569B?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-Desain-02569B?style=for-the-badge&logo=canva&logoColor=000000)
 
